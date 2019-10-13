@@ -16,8 +16,7 @@ return [
     'version'     => '1.0.0',
     'services' => [
         'events'  => [],
-        'forms'   => [
-        ],
+        'forms'   => [],
         'helpers' => [],
         'other'   => [
             'mautic.sms.transport.comtele' => [

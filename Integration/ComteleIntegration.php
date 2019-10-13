@@ -63,6 +63,5 @@ class ComteleIntegration extends AbstractIntegration
      * @param string                                            $formArea
      */
     public function appendToForm(&$builder, $data, $formArea)
-    {
-    }
+    { }
 }
